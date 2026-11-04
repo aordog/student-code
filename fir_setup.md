@@ -8,7 +8,7 @@ These steps only need to be done once each time you want to create a new virtual
 
 1. Navigate to your user directory:
 
-    `cd /project/def-ashill/<username>`
+    `cd /home/<username>`
 
 2. Load `python` and `scipy` modules:
 
@@ -52,7 +52,7 @@ Unlike on `elephant`, where all resources were available to the whole group at a
 
 1. When you log into `fir`, navigate to the directory where you want to do your work, load the modules and activate the environment you want to use:
 
-    `cd /project/def-ashill/<username>`
+    `cd /home/<username>`
 
     `module load python/3.14`
 
